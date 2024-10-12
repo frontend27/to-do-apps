@@ -1,0 +1,36 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "name": "Nekhil",
+      "email": "nekhil@gmail.com",
+      "phone": 8017893065,
+      "address": "delhi",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "Nekhil Ahuja",
+      "email": "nekhilahuja@gmail.com",
+      "phone": 8020893065,
+      "address": "haryna",
+      "password": "admin"
+    },
+    {
+      "name": "Shradhanand Singh",
+      "email": "shradhanand2015@gmail.com",
+      "phone": "08017890364",
+      "address": "Haryana",
+      "id": 3,
+      "password": "admin"
+    },
+    {
+      "name": "Shradhanand Singh",
+      "email": "shradhanand2015@gmail.com",
+      "phone": "08017890364",
+      "address": "Haryana",
+      "id": 4,
+      "password": "admin"
+    }
+  ]
+}
